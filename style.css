@@ -1,0 +1,33 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(white 0% , green 100% );
+    font-family:Dancing Script;
+}
+h1{
+    font-family:Dancing Script;
+}
+
+h4{
+    color: red;
+}
+
+#camera{
+border-color:red;
+color: red;
+width: 500px;
+height: 400px;
+}
+
+img:hover{
+    border-radius: 140px;
+    box-shadow: 0 6px 8px rgb(2, 2, 2);
+}
+
+img{
+    padding: 10px;
+    border-radius: 55px;
+    box-shadow: 0 6px 8px rgb(2, 2, 2);
+}
